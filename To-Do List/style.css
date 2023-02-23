@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #07d4a8;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    border: solid 2px;
+    border-radius: 5px 0 0 5px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: solid 2px;
+    border-color: black;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    /*
+    padding: 10px;
+    background-color: #0bd9e0;
+    */
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: solid 2px;
+  }
+  li:before {
+    content: "";
+    position: absolute;
+    left: -50%;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    background-color: #4CAF50;
+    transform-origin: left;
+    animation: slideInFromLeft 0.5s ease-out;
+  }
+  
+li.completed:before {
+  /* Change the animation to slide in from the right */
+  left: auto;
+  right: -50%;
+  transform-origin: right;
+  animation-name: slideInFromRight;
+}
+  @keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes slideInFromRight {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
