@@ -1,0 +1,89 @@
+body {
+    background-color: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .thermometer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .thermometer {
+    position: relative;
+    width: 80px;
+    height: 250px;
+    background-color: #ddd;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    margin-left: 350px;
+  }
+  .mercury {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 10px;
+    height: 0;
+    border: 10px solid transparent;
+    border-top: none;
+    border-bottom: none;
+    background-color: #c3e6f5;
+    transition: height 0.3s ease;
+  }
+  
+  .mercury.cold {
+    background-color: #4C4CFF; /* blue */
+    color: white;
+  }
+  
+  .mercury.warm {
+    background-color: #ff6347;
+  }
+  
+  .temperature {
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #fdd835;
+    border-radius: 10px;
+  }
+  .line {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 3px;
+    height: 200px;
+    background-color: #000;
+    z-index: -1;
+  }
+  .degrees {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 360px;
+  }
+  .degree {
+    width: calc(100% / 10);
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: 250px;
+   
+  }
