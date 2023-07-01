@@ -159,7 +159,7 @@ class SnakeGame
         for (int i = 0; i < snakeX.Count; i++)
         {
             Console.SetCursorPosition(snakeX[i], snakeY[i]);
-            Console.Write(i == 0 ? "@" : "#");
+            Console.Write(i == 0 ? ">" : "#");
         }
 
         // Draw food
