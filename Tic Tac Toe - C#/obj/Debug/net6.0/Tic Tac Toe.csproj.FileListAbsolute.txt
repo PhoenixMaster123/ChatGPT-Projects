@@ -1,0 +1,15 @@
+D:\ChatGPT\Everything\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.exe
+D:\ChatGPT\Everything\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.deps.json
+D:\ChatGPT\Everything\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.runtimeconfig.json
+D:\ChatGPT\Everything\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.dll
+D:\ChatGPT\Everything\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.pdb
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.csproj.AssemblyReference.cache
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.AssemblyInfoInputs.cache
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.AssemblyInfo.cs
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.dll
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\refint\Tic Tac Toe.dll
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.pdb
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.genruntimeconfig.cache
+D:\ChatGPT\Everything\Tic Tac Toe\obj\Debug\net6.0\ref\Tic Tac Toe.dll
