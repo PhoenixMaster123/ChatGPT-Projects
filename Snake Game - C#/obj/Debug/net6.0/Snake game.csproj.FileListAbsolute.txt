@@ -1,0 +1,15 @@
+D:\ChatGPT\Everything\Snake game\bin\Debug\net6.0\Snake game.exe
+D:\ChatGPT\Everything\Snake game\bin\Debug\net6.0\Snake game.deps.json
+D:\ChatGPT\Everything\Snake game\bin\Debug\net6.0\Snake game.runtimeconfig.json
+D:\ChatGPT\Everything\Snake game\bin\Debug\net6.0\Snake game.dll
+D:\ChatGPT\Everything\Snake game\bin\Debug\net6.0\Snake game.pdb
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\Snake game.csproj.AssemblyReference.cache
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\Snake game.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\Snake game.AssemblyInfoInputs.cache
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\Snake game.AssemblyInfo.cs
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\Snake game.csproj.CoreCompileInputs.cache
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\Snake game.dll
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\refint\Snake game.dll
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\Snake game.pdb
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\Snake game.genruntimeconfig.cache
+D:\ChatGPT\Everything\Snake game\obj\Debug\net6.0\ref\Snake game.dll
